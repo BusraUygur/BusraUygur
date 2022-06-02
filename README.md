@@ -15,6 +15,3 @@ I'm a front-end developer from Beaverton, Oregon.
   
 🤝 Connect with me:  <a href="mailto:bnuygur@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bnuygur@gmail.com-blue?style=flat-square&logo=gmail"></a> 
 <a href="https://www.linkedin.com/in/busra-uygur-barut-674b5723b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Busra%20Uygur%20Barut-blue?style=flat-square&logo=linkedin"></a>
-
----
-⭐️ From [BusraUygur](https://github.com/BusraUygur)
