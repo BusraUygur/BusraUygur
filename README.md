@@ -7,5 +7,3 @@ I'm a Software Engineer from Beaverton, Oregon.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-
-🤝 Connect with me: <a href="https://www.linkedin.com/in/busrauygurbarut/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Busra%20Barut-blue?style=flat-square&logo=linkedin"></a>
